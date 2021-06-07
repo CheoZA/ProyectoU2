@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyectoU2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuText">¿Que tanto sabes de videojuegos?</string>
+    <string name="comenzarTest">Comenzar Test</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="pregunta1">¿Qué edad tenía Leon S. Kennedy en Resident Evil 2?</string>
+    <string name="pregunta2">¿Cuál es el nombre del primer nivel de Super Mario 64?</string>
+    <string name="pregunta3">Selecciona 3 personajes jugables de Super Smash Bros Ultimate (Nota: Cada selección incorrecta anulará cada correcta)</string>
+    <string name="pregunta4">¿Qué capacidad tenían las Memory Card oficiales de PlayStation 2?</string>
+    <string name="pregunta5">¿Dónde podíamos jugar a The Legend of Zelda: Oracle of Ages/Seasons?</string>
+
+
+</resources>
